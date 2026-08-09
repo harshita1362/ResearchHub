@@ -2,12 +2,28 @@
 
 AI-Powered Research Collaboration & Consulting Platform
 
-""Python" (https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)" (https://www.python.org/)
-""FastAPI" (https://img.shields.io/badge/FastAPI-0.1+-009688?logo=fastapi&logoColor=white)" (https://fastapi.tiangolo.com/)
-""React" (https://img.shields.io/badge/React-TypeScript-61DAFB?logo=react&logoColor=black)" (https://react.dev/)
-""Flutter" (https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white)" (https://flutter.dev/)
-""PostgreSQL" (https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)" (https://www.postgresql.org/)
-""License" (https://img.shields.io/badge/License-MIT-green.svg)" (#license)
+🛠️ Technology Stack
+
+⚙️ Backend
+Python · FastAPI · SQLAlchemy · PostgreSQL
+
+🎨 Frontend
+React · Next.js · TypeScript · Tailwind CSS
+
+📱 Mobile
+Flutter · Dart
+
+🧠 AI & ML
+OpenAI API · PyTorch · Scikit-learn · NLP · RAG
+
+🔐 Security
+JWT · OAuth 2.0 · Role-Based Access Control
+
+💳 Payments
+Razorpay · Stripe
+
+☁️ Cloud & DevOps
+AWS · Docker · GitHub Actions
 
 «Connect. Collaborate. Create Impact.»
 
